@@ -27,7 +27,7 @@
     "lib"
   ],
   "peerDependencies": {
-    "webpack": "1 || ^2.1.0-beta"
+    "webpack": "1 || >= 2.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.11.4",
